@@ -1,11 +1,18 @@
+# Операционная система
 .DS_Store
 Thumbs.db
+
+# Python
 *.py[cod]
 __pycache__/
 *.so
+
+# Среда разработки
 .vscode/
 .idea/
 *.swp
+
+# Файлы окружения
 .venv/
 .env
 env/
@@ -13,11 +20,21 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+
+# Логи
 *.log
+
+# Конфигурации
 *.ini
 *.cfg
+
+# Базы данных
 *.sqlite3
+
+# Файлы виртуальных окружений
 Pipfile.lock
+
+# Файлы пакетов
 *.egg
 *.egg-info/
 dist/
